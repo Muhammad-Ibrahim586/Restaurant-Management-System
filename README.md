@@ -1,5 +1,6 @@
 # Restaurant Management System
 
+# Overview
 A command-line-based application developed in C++ to manage restaurant operations. This project demonstrates the use of flow control structures, arrays, and functions to build an efficient and interactive system.
 
 # Features
