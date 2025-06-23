@@ -1,10 +1,3 @@
-// Semester Project Fall 2023
-// Project statement 1: "Resturant Management System"
-// Group members name and Roll #: Muhammad Ibrahim (23i - 6090) and Abdul Basit (23i - 6079)
-// Section: A
-// Course / Lab: CS1002 - Programming Fundamentals
-// Date of Submission: 03-12-2023
-
 #include <iostream>
 #include <iomanip>
 #include <string>
