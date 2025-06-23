@@ -13,8 +13,8 @@ A command-line-based application developed in C++ to manage restaurant operation
 
 # Technologies Used
 
-**Programming Language:** C++
-**Development Environment:** Dev_C++ 5.11
+1) **Programming Language:** C++
+2) **Development Environment:** Dev_C++ 5.11
 
 # How to Run
 
@@ -45,5 +45,5 @@ Feel free to open issues or submit pull requests to enhance the functionality of
 
 # Acknowledgments
 
-Guided by my interest in **designing and implementing efficient hardware and software systems**.
-Special thanks to my teammate Abdul Basit.
+1) Guided by my interest in **designing and implementing efficient hardware and software systems**.
+2) Special thanks to my teammate Abdul Basit.
